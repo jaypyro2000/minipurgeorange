@@ -1,0 +1,1 @@
+$tellraw @a [{"text":"Loot has dropped at $(place_x_pos), $(place_y_pos), $(place_z_pos)!","color":"red"}]
